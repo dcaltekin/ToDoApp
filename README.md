@@ -2,20 +2,19 @@
 
 
 
-## What i used in this project
-
-In the project directory, you can run:
+## What i used in this project:
 
 ### `React JS`
+### `React Router`
+### `Javascript`
+### `Local Storage`
+### `Responsive Design`
+### `Tailwind CSS`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Demo:
 
-### `npm test`
+https://todowithlocalstorage.netlify.app/
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
 
